@@ -20,5 +20,4 @@ This project demonstrates a responsive service card layout using **Tailwind CSS*
 1. Clone the repository or download the source code.
    
    ```bash
-   [git clone https://github.com/your-username/service-card-hover-animation.git
-](https://github.com/Aloneking789/Assignment-Pinak-Idea-Lab.git)
+(https://github.com/Aloneking789/Assignment-Pinak-Idea-Lab.git)
